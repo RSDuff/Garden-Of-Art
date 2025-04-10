@@ -12257,7 +12257,6 @@ GameObject:
   - component: {fileID: 956824367}
   - component: {fileID: 956824366}
   - component: {fileID: 956824365}
-  - component: {fileID: 956824364}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -12265,14 +12264,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!33 &956824364
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 956824363}
-  m_Mesh: {fileID: 0}
 --- !u!114 &956824365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23203,7 +23194,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7412079985589468698, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_MoveSpeed
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7434851320941268098, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_AnchorMax.y

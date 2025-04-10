@@ -1,0 +1,2 @@
+C:\Users\graphic\Desktop\Future-Interface-Design\Garden-Of-Art\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\graphic\Desktop\Future-Interface-Design\Garden-Of-Art\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
